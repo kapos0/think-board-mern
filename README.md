@@ -15,3 +15,5 @@
 ```env
 
 ```
+
+### first run the backend in the root of the Project npm run dev then create a new terminal and run the frontend separately
